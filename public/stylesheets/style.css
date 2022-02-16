@@ -1,0 +1,79 @@
+.body {
+  background: #e4dbc6 !important;
+  color: #141414;
+}
+
+#main-nav {
+  background-color: #f7f599;
+}
+
+.top-bar,
+.top-bar ul {
+  background-color: #f7f599;
+}
+
+.title-bar {
+  background-color: #abd175;
+  color: #141414;
+}
+
+.menu-icon::after {
+  background: #141414;
+  box-shadow: 0 7px 0 #141414, 0 14px 0 #141414;
+}
+
+.menu-text {
+  background-color: #f7f599;
+  color: #141414;
+}
+
+.menu a {
+  background-color: #aaa85b;
+  color: #ffffff;
+}
+
+.breadcrumbs a {
+  color: #141414;
+}
+
+.callout.secondary {
+  background-color: rgb(38, 64, 67, 0.8);
+  color: #aed1cd;
+}
+
+.callout.secondary p {
+  font-family: "Alegreya", Serif;
+  font-size: 0.95rem;
+}
+
+.callout.secondary h3 {
+  font-family: "Questrial", Sans-Serif;
+  font-size: 2rem;
+  text-transform: uppercase;
+}
+
+.button {
+  background-color: rgb(0, 0, 0, 0.3);
+  color: #ffffff;
+  font-family: "Questrial", Sans-Serif;
+}
+
+.callout.primary {
+  border: none;
+  background-color: #e4dbc6;
+  color: #141414;
+}
+
+/* Font-Family: 'Questrial', Sans-Serif;
+Font-Size: 2rem;
+color: #141414;
+color: #AAA85B;
+
+
+.green_bkg {
+  background-color: #ABD175;
+}
+
+.yello_bkg {
+  background-color: #F7F599;
+} */
